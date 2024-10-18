@@ -16,6 +16,7 @@ This new repository, however, contains more specialized functions that we need t
 
 (3) A function to create the powerset of Div(f). This function is used to classify the isomorphic/isospectral classes of gcd-graphs where $f$ is fixed but $D$ varies. 
 
+(4) A function to calculate the factorization types for polynomials of fixed degree $n$ over $\mathbb{F}_q[x]$. We use this function to count the number of isomorphic unitary Cayley graphs as discussed in Section 4 of the cited paper. 
 
 ## Description
 
